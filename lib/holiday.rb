@@ -109,7 +109,7 @@ def all_holidays_with_bbq(holiday_hash)
   bbq_array
 end
 
-puts all_holidays_with_bbq(holiday_hash)
+puts all_supplies_in_holidays(holiday_hash)
 
 
 
